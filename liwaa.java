@@ -1,5 +1,5 @@
 package Tirgul1;
-// id:323036533 , name : Liwaa Hosh
+// name : Liwaa Hosh
 import javax.swing.JOptionPane;
 public class liwaa
 {
